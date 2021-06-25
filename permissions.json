@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rookas-sales-app",
+  "private_key_id": "d4fafdbc24bf54c87f693bd4c9bfd17f0a639b98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOT/0Oc8be0Vv0\nUY9bsXHOqJqRW6Q2PRFkFjUag3muJ+1gM9p76UUzPA/1EWayYlwDHPioaQ7vz+Yn\nubY8t4PoXQGRq6JxOcvJLWsYca9soXBS3xG5RMQa1LoisOwx5F1zPbbIhtgasoe8\nhnLcwc7Gvn/iNqT+mplqHdaPihzSaRxMH4Rgkb/rYTvRUF1HiPlZuijxXRyiVb8M\ndMKjtEZNZMAYnCxtHlBzR9kNDW2Tg7RUJu5eMn6VorqaLCbzgI88TltOd/gKDu5f\n+BN3rpHJUBbUEYAER8dJdTRoyGrW9Lx6gMJeCUwin32DyEGWDanUJkSvBLc23O8o\nc8f33l8LAgMBAAECggEABa7CGybMQk8mL5It8ubg9XQYpNpE5BlWRn8iErcED6/Z\nPqfKhkJ71PdMvWDXcs29coPusp/BjP1bvuORQvO/BYFak9okD3ia9Nxml4sCJzNf\nUctiLxLhRZE6d4fT0/5pnuBB759hevRSK8q9C8ShMoSQS/D9b8SR1gjEbbusR/UD\nY9FSW7OWnBlSpmu1+t4DPRiUBiTxlOVVe8rE4sga2qg2RY6ZLju3/aFJj2AhL6ff\nwQe34j163Kr64UeVLpDtQLN/I+du8fn1Cpr9F1u6Xx7mg4pufgu5al7phsVFmjvL\nmS2NJN0EgSPKf3xPNhHO7YM3aPLYDVxGrk7uncksHQKBgQDElxTNOY/4OHEwNFAX\ni5vJbDQWF6sxNlumZdelqnreMiBwxbSKSCpVjyCIP6Uyg9uv9/Ycb654q8hvmeGR\ngIuv0bOY+5+6WVu4iZBrQMnXD3GgC2miw0ljoXKSdUajhyjfkW3UBKSDKR3tjbHI\nHeyRdvTSiRqRajJOvvXvRtAHZQKBgQC5UcohAxE6QRqzDwizTj6qDOvhYOmldfEG\n2dDxR37HHImaeEfmzPhe/wy6GXPDMYIm00W8UnTOkZT9qB95bf1PCZOmVXvyqaDS\ntWAgjCjK3C258LhRNGhWIuvYILirlWAhtIAp3f08JwZv9kqZ0qLlo1iVRF9zDhWH\nJLtj+4l9rwKBgQCN1LorPeZCnOX8cyF9ezmP3kLN1ZGq1Z7VtBAa853lhKCm+9w/\nD8WLKNG9ur1CbqMml2y2I1TqtnTLH2gAA4/D7zT1oEQiu6lSv9yzpHB6eift4Y36\n4Y2nFamFRJsMC81PTqrAFgFip11yL5Id4Ij2ga4r3sKOOuHEsjzYvmwDiQKBgG65\nfJCO2Zs5zO8RW3xukqhdwg3OLquqtVEHkXyn4AqtdVXy6drvurJfp0YF8RG+Iep6\nrx7fEWVevGt2KSAPZJr1uN9YEg+h5DIhJocr1y+lsDh5qFb0fiaBBPMEUfJK9L4O\nr8jUFvr6wjDhMh+IJ8YW+9VrnbALyTcO7lvFrZeHAoGAQLyZeWLPhjYT8TUX+lcl\nY5ydhdCBpS8CtmTfcD4mUUzzMV1HyPYf5g71zQ7/lVob9r0Qotni70ENQ/63hcW9\n+FdRswjvNwbqX0yDSaS+y+WFc2PLVUWEzT2HXZwVwlwLiAnXAlF/0vphZJDJgPvL\nuEx27jSVr1oZhl+r2OFyfHE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wzdnk@rookas-sales-app.iam.gserviceaccount.com",
+  "client_id": "104492283354357790157",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wzdnk%40rookas-sales-app.iam.gserviceaccount.com"
+}
